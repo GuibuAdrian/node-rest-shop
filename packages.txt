@@ -1,0 +1,7 @@
+npm install --save express		
+npm install --save nodemon		monitor the file and automatically restart de server when something changes package.json => start: nodemon app.js'
+npm install --save morgan		Logs
+npm install --save body-parser		
+npm install --save multer		parse form body data	https://github.com/expressjs/multer
+npm install --save bcrypt
+npm install --save jsonwebtoken 	generates a token and sigin
